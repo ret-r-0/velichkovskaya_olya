@@ -1,0 +1,97 @@
+body {
+background-color:#FEEF50;
+margin: 0;
+
+}
+header{
+  position:relative;
+
+}
+main {
+  position: relative;
+}
+#Olya{
+
+      position: relative;
+left: 47%;
+width: 17%;
+top: 4vh;
+height: 46vh;
+}
+#Reif_Bank{
+    position: relative;
+    left: 6%;
+    width: 22%;
+    bottom: 14vh;
+
+}
+#info {
+  position: relative;
+  left: 69%;
+  width: 23%;
+  top: 3vh;
+
+}
+p, h1, h2, li, h3 {
+    font-family: 'Gilroy-Medium', sans-serif;
+}
+ nav{
+
+
+ }
+ul{
+list-style: inside;
+
+}
+section{
+  position: relative;
+      left: 4%;
+      width: 48%;
+      top:5vh;
+
+}
+
+hr {
+  color: black;
+    width: 94%;
+    border: none;
+    border-bottom:  3px solid black;
+    height: 1px;
+    margin-top: 37px;
+    position: relative;
+    left: 1%;
+
+}
+aside
+{
+  display: inline-block;
+  position: relative;
+  width: 41%;
+  left: 58%;
+  vertical-align: top;
+  bottom: 90vh;
+}
+a{
+text-decoration: none;
+    font-family: 'Gilroy-Medium', sans-serif;
+
+}
+#logos{
+  width: 23%;
+      position: relative;
+      left: 56%;
+      bottom:7vh;
+}
+#inst{
+padding-right:  16%;
+}
+#face{
+}
+.vl {
+  position: absolute;
+    border: none;
+    border-left: 3px solid black;
+    left: 54%;
+    height: 104vh;
+    bottom: 95vh;
+}
